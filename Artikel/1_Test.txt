@@ -1,0 +1,6 @@
+<?php return array (
+  'date' => '2021-04-21',
+  'author' => 'Jan-Ole Weiß',
+  'headline' => 'Test',
+  'content' => 'Das ist ein Test',
+);
